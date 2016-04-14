@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Java">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.core.runtimeTarget/com.amazonaws.eclipse.elasticbeanstalk.jee.runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="com.amazonaws.eclipse.sdk.AWS_JAVA_SDK">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/websock/WebContent/WEB-INF/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="/websock/WebContent/WEB-INF/lib/mysql-connector-java-5.1.37-bin.jar"/>
+	<classpathentry kind="lib" path="/websock/WebContent/WEB-INF/lib/twitter4j-async-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/websock/WebContent/WEB-INF/lib/twitter4j-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/websock/WebContent/WEB-INF/lib/twitter4j-examples-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/websock/WebContent/WEB-INF/lib/twitter4j-media-support-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/websock/WebContent/WEB-INF/lib/twitter4j-stream-4.0.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0 (8)"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-Category-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-Combined-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-Concept-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-ConstraintQuery-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-Entity-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-FeedLinks-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-Image-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-Keyword-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-Language-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-Microformats-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-Parameter-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-Relations-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-Sentiment-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-Taxonomy-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/examples/alchemyapi_java/dist/AlchemyAPI-TextExtract-Test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/servlet-api-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/streamhub-java-adapter-sdk-2.2.10/examples/lib/jar/json-20080701.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/streamhub-java-adapter-sdk-2.2.10/examples/lib/jar/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/streamhub-java-adapter-sdk-2.2.10/examples/lib/jar/streamhub-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/streamhub-java-adapter-sdk-2.2.10/examples/lib/jar/streamhub-gwt-adapter-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Somdeep/Desktop/streamhub-java-adapter-sdk-2.2.10/examples/lib/jar/streamhub-java-adapter-sdk-2.2.10.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
